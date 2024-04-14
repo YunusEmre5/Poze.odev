@@ -1,0 +1,34 @@
+Font: Inter
+genel büyüklük: 16px;
+genel genişlik: 400
+satır aralığı: 1.6em
+genel renk: 6b6b6b
+
+tüm başlıkların;
+genişlik: 700;
+satır yüksekliği: 1.3em;
+renk: #0d0c17
+
+boyutlar: h1: 56px; h2: 42px; h3: 30px; h4: 24px; h5: 18px; h6: 16px;
+
+a:hover renk #06b453;
+
+border renkleri: #a3a2a3
+
+yeşil renk: 06b453
+
+siyah renk: 0d0c17
+
+Ana menünün üzerine gelince rengi yeşil olacak. Ama ana sayfa linki active olacağı için hem rengi yeşil hemde altında nokta olacak.
+örnek: menu-active-hover.png
+
+Tüm butonların üzerine gelince;
+beyaz ise yeşil arkaplan beyaz font
+yeşil ise beyaz arkaplan yeşil font olacak.
+
+Özellik kutularının üzerine gelindiğinde yukarı doğru hareket edecek. Örnek: kutu-hover-effect.png
+
+
+fiyat kutularında ortadakinin arkaplanı her zaman yeşil olacak. sağ ve soldakilerinin üzerine gelince arkaplanı yeşil olacak.
+örnek: price-hover.png
+
